@@ -1,0 +1,2 @@
+running into a bug. getting empty embed with https://i.redd.it/m5g2r6cvo9wb1.png
+not sure if it's because it's reddit, a png, or both. posting plain text in the channel embeds. posting i.redd.it links as plain text and not embeds seems to work.
